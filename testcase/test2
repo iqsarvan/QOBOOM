@@ -1,0 +1,1 @@
+select * from (select * from ja) where g < 0;
